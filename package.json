@@ -1,0 +1,19 @@
+{
+  "name": "openearth-paypal-donation-ipn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Open-Earth-Foundation/openearth-paypal-donation-ipn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Open-Earth-Foundation/openearth-paypal-donation-ipn/issues"
+  },
+  "homepage": "https://github.com/Open-Earth-Foundation/openearth-paypal-donation-ipn#readme"
+}
